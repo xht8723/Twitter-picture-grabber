@@ -1,2 +1,2 @@
 # Twitter-picture-grabber
-Grabs a single user's all pictures
+A python script to grabs a single user's all pictures
